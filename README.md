@@ -6,19 +6,19 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-todo-app.vercel.app">
+    <a href="https://devchallenges-todo-app.vercel.app" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/bdodeveloper/devchallenges-todo-app">
+    <a href="https://github.com/bdodeveloper/devchallenges-todo-app" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5" target="_blank">
       Challenge
     </a>
     <span> | </span>
-    <a href="https://www.figma.com/file/SClDA1weEGA3Mo8Is8Sbf2/todo">
+    <a href="https://www.figma.com/file/SClDA1weEGA3Mo8Is8Sbf2/todo" target="_blank">
       Design
     </a>
   </h3>
