@@ -19,14 +19,14 @@ function App() {
         </div>
         <a
           target="blank"
-          href="https://devchallenges.io/profile/O3qIKR1gErLVNKzoyWQ9"
+          href="https://devchallenges.io/portfolio/bdocoder"
           style={{
             fontFamily: 'Montserrat',
             color: '#A9A9A9'
           }}
           className="font-normal text-sm leading-17px my-5"
         >
-          Abdullah Ahmad (bdodeveloper) @ DevChallenges.io
+          Abdullah Ahmad (bdocoder) @ DevChallenges.io
         </a>
       </div>
     </TodoProvider>
