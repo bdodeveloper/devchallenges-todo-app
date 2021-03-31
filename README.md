@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/bdodeveloper/devchallenges-todo-app" target="_blank">
+    <a href="https://github.com/bdocoder/devchallenges-todo-app" target="_blank">
       Solution
     </a>
     <span> | </span>
@@ -62,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/bdodeveloper/devchallenges-todo-app
+$ git clone https://github.com/bdocoder/devchallenges-todo-app
 
 # Move to the project directory
 $ cd devchallenges-todo-app
@@ -80,5 +80,5 @@ $ yarn start
 
 ## Contact
 
-- GitHub [@bdodeveloper](https://github.com/bdodeveloper)
-- Twitter [@bdodeveloper](https://twitter.com/bdodeveloper)
+- GitHub [@bdocoder](https://github.com/bdocoder)
+- Twitter [@bdocoder](https://twitter.com/bdocoder)
